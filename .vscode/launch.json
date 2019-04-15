@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloClient",
+            "request": "launch",
+            "mainClass": "HelloClient",
+            "projectName": "ClientRMI"
+        }
+    ]
+}
